@@ -3,7 +3,7 @@ Recording tool functions
 
 ## Usage
 
-### [.isArray](lib/utils#L3)
+### [.isArray](lib/utils.js#L3)
 Returns true if the given `value` is an array.
 
 **Params**
